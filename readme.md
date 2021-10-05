@@ -15,9 +15,8 @@ Somphomore at <a href="nitkkr.ac.in">NIT Kurukshetra</a> <br/>
 ```javascript
 var Bhannasa = {
     pronouns : 'he' || 'him' ,
-    askMeAbout : ['Web', 'Songs', 'CP', 'Techs'],
+    askMeAbout : ['Web', 'CP', 'Techs', 'Songs'],
     languages : [ JAVASCRIPT , C, C++ , JAVA , PYTHON , HTML5 , CSS3 ] ,
-    frameworks : [ REACTJS , NODEJS , EXPRESSJS , BOOTSTRAP ] ,
     databases : [ MYSQL , MONGODB] ,
     frameworks : {
         JS : [ REACTJS , NODEJS , EXPRESSJS ] ,
