@@ -37,10 +37,7 @@ Growing and Adding more skills... 😌
 <hr>
 
 ## Github stats :
-<div style="text-align:center;width:100%;">
-
-   ![Profile visitors](https://komarev.com/ghpvc/?username=bhannasa&style=flat-square)
-</div>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=bhannasa&style=flat-square" alt="bhannasa" /><br></p>
 <br>
 
 
