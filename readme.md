@@ -13,7 +13,7 @@ Somphomore at <a href="nitkkr.ac.in">NIT Kurukshetra</a> <br/>
 
 ## More about myself: 
 ```javascript
-var Bhannasa = {
+const Bhannasa = {
     pronouns : 'he' || 'him' ,
     askMeAbout : ['Web', 'CP', 'Techs', 'Songs'],
     languages : [ JAVASCRIPT , C, C++ , JAVA , PYTHON , HTML5 , CSS3 ] ,
@@ -25,8 +25,7 @@ var Bhannasa = {
     },
     hobbies : ['Music', 'Singing', 'Eating a lot XD']
 }
-// ☝️ used `var` because I am consistently Learning, 
-// Growing and Adding more skills... 😌
+// Working on this object to keep on appending more techs 
 ```
 
 
