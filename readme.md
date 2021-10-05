@@ -1,17 +1,19 @@
-<div style="display:flex;justify-content:center;align-items:center;">
-<div style="display:inline-block"> 
 <h2>नमस्ते (Namaste)🙏🏻 I'm Adityabhan Singh</h2>  
 Somphomore at <a href="nitkkr.ac.in">NIT Kurukshetra</a> <br/>
 <br/>
 
-<img src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif" style="height:50px;"> ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23313131&size=20&center=false&vCenter=true&width=400&height=50&lines=Welcome+to+Bhannasa's+Profile;I+am+a+Competitive+Coder;I+am+a+MERN+Developer;I+am+a+Java+Swing+beginner+) 
+<p align="center">
+    <img src="media/hi.gif" style="height:650px"/>
+<hr/> 
 
-## Make connections: 
+<img src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif" style="height:50px;" /> ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23313131&size=20&center=false&vCenter=true&width=700&height=50&lines=Welcome+to+Bhannasa's+Profile;I+am+a+Competitive+Coder;I+am+a+MERN+Developer;I+am+a+Java+Swing+beginner+) 
+
+## Make connections with me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhannasa/) [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityabhansinghrathore@gmail.com) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhannasa) [![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/bhannasa) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/bhannasa)
 
-## More about me: 
+## More about myself: 
 ```javascript
-var bhannasa = {
+var Bhannasa = {
     pronouns : 'he' || 'him' ,
     askMeAbout : ['Web', 'Songs', 'CP', 'Techs'],
     languages : [ JAVASCRIPT , C, C++ , JAVA , PYTHON , HTML5 , CSS3 ] ,
@@ -24,15 +26,10 @@ var bhannasa = {
     },
     hobbies : ['Music', 'Singing', 'Eating a lot XD']
 }
+// ☝️ used `var` because I am consistently Learning, 
+// Growing and Adding more skills... 😌
 ```
-☝️ used `var` because I am consistently Learning, 
-Growing and Adding more skills... 😌
-</div>
 
-<div style="display:inline-block;text-align: center; "> 
-    <img src="media/hi.gif" />
-</div>
-</div>
 
 <hr>
 
