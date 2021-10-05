@@ -1,4 +1,4 @@
-<div style="display:flex; flex-wrap:wrap; justify-content:center;align-items:center;">
+<div style="display:flex;justify-content:center;align-items:center;">
 <div style="display:inline-block"> 
 <h2>नमस्ते (Namaste)🙏🏻 I'm Adityabhan Singh</h2>  
 Somphomore at <a href="nitkkr.ac.in">NIT Kurukshetra</a> <br/>
@@ -25,11 +25,12 @@ var bhannasa = {
     hobbies : ['Music', 'Singing', 'Eating a lot XD']
 }
 ```
-##### ☝️ used `var` because I am consistently Learning and Growing... 😌
+☝️ used `var` because I am consistently Learning, 
+Growing and Adding more skills... 😌
 </div>
 
 <div style="display:inline-block;text-align: center; "> 
-    <img src="media/hi.gif" style="height:700px;"/>
+    <img src="media/hi.gif" />
 </div>
 </div>
 
@@ -42,6 +43,6 @@ var bhannasa = {
 </div>
 <br>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bhannasa&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true)  ![Bhannasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhannasa&show_icons=true&theme=bear&bg_color=000&hide_border=true&title_color=e31d44&text_color=b65f1c)
 
-
+<img style="width:49%;" src="http://github-readme-streak-stats.herokuapp.com?user=bhannasa&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="GitHub Streak">
+<img style="width:49%;" src="https://github-readme-stats.vercel.app/api?username=bhannasa&show_icons=true&theme=bear&bg_color=000&hide_border=true&title_color=e31d44&text_color=b65f1c" alt="Bhannasa's GitHub stats">
