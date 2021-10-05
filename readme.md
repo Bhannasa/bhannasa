@@ -42,5 +42,5 @@ Growing and Adding more skills... 😌
 
 
 <p align="center">
-    <img style="width:350px;" src="http://github-readme-streak-stats.herokuapp.com?user=bhannasa&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="GitHub Streak"> <img style="width:350px;" src="https://github-readme-stats.vercel.app/api?username=bhannasa&show_icons=true&theme=bear&bg_color=000&hide_border=true&title_color=e31d44&text_color=b65f1c" alt="Bhannasa's GitHub stats">
+    <img style="width:320px;" src="http://github-readme-streak-stats.herokuapp.com?user=bhannasa&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="GitHub Streak"> <img style="width:320px;" src="https://github-readme-stats.vercel.app/api?username=bhannasa&show_icons=true&theme=bear&bg_color=000&hide_border=true&title_color=e31d44&text_color=b65f1c" alt="Bhannasa's GitHub stats">
 </p>
