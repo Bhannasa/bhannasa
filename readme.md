@@ -1,5 +1,5 @@
 <h2>नमस्ते (Namaste)🙏🏻 I'm Adityabhan Singh</h2>  
-Somphomore at <a href="https://nitkkr.ac.in/">NIT Kurukshetra</a> <br/>
+Sophomore of <a href="https://nitkkr.ac.in/">NIT Kurukshetra</a> <br/>
 <br/>
 
 <p align="center">
