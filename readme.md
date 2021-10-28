@@ -1,4 +1,4 @@
-<h2>नमस्ते (Namaste)🙏🏻 I'm Adityabhan Singh</h2>  
+<h2>नमस्ते (Namaste)🙏🏻 I'm Adityabhan Singh Rathore</h2>  
 Sophomore of <a href="https://nitkkr.ac.in/">NIT Kurukshetra</a> <br/>
 <br/>
 
