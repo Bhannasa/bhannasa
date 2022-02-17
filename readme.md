@@ -23,7 +23,7 @@ const Bhannasa = {
         CSS : [ BOOTSTRAP , TAILWIND ] ,
         'misc' : [PUG]
     },
-    hobbies : ['Music', 'Singing', 'Eating a lot XD']
+    hobbies : ['Music', 'Eating a lot XD']
 }
 // Currently working on this object to keep on appending more techs 
 ```
