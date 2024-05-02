@@ -1,5 +1,5 @@
 <h2>नमस्ते (Namaste)🙏🏻 I'm Adityabhan Singh Rathore</h2>  
-Prefi at <a href="https://nitkkr.ac.in/">NIT Kurukshetra</a> <br/>
+Final year B.Tech at <a href="https://nitkkr.ac.in/">NIT Kurukshetra</a> <br/>
 <br/>
 
 <p align="center">
